@@ -17,7 +17,7 @@ on:
         default: '- 日本語翻訳を追加'
 
 env:
-  PROJECT_NAME: 'Mekanism_Lasers_JP'
+  PROJECT_NAME: 'JP_LOCALIZATION_IMPROVABLE_SKILLS_3'
 
 jobs:
   build-and-release:
